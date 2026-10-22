@@ -1,0 +1,22 @@
+{
+  "people": [
+    "Lukas",
+    "Ute",
+    "Janne",
+    "Diana",
+    "Wiebke",
+    "Sven",
+    "Levke",
+    "Abed"
+  ],
+  "exclusions": [
+    ["Diana", "Abed"],
+    ["Sven", "Wiebke"],
+    [],
+    ["Lukas", "Janne"],
+    ["Abed", "Lukas"],
+    ["Ute", "Levke"],
+    ["Ute"],
+    ["Wiebke", "Diana"]
+  ]
+}

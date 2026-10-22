@@ -1,0 +1,34 @@
+{
+  "Lukas": [
+    "Janne",
+    "Sven"
+  ],
+  "Ute": [
+    "Janne",
+    "Abed"
+  ],
+  "Janne": [
+    "Levke",
+    "Wiebke"
+  ],
+  "Diana": [
+    "Wiebke",
+    "Ute"
+  ],
+  "Wiebke": [
+    "Diana",
+    "Ute"
+  ],
+  "Sven": [
+    "Diana",
+    "Lukas"
+  ],
+  "Levke": [
+    "Abed",
+    "Sven"
+  ],
+  "Abed": [
+    "Lukas",
+    "Levke"
+  ]
+}
